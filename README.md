@@ -4,6 +4,7 @@ Documentation for **Castdown**, a multiplayer fishing game mode for [Teardown](h
 
 - [Steam Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3775653892)
 - [Report a bug](https://forms.gle/qAqtt8bECB8YM5Lx7)
+- Discord: link coming soon
 
 ## Contents
 
